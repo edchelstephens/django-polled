@@ -1,11 +1,12 @@
-Metadata-Version: 1.1
+Metadata-Version: 1.2
 Name: django-polled
 Version: 0.1.1
 Summary: A Django app for Web-based polls.
-Home-page: https://edchelstephens.herokuapp.com/
+Home-page: https://github.com/edchelstephens/django-polled
 Author: Edchel Stephen Nini
 Author-email: edchelstephens@gmail.com
 License: BSD-3-Clause
+Project-URL: Bug Tracker, https://github.com/edchelstephens/django-polled/issues
 Description: ===============
         Django Polled:
         ---------------
@@ -45,7 +46,7 @@ Description: ===============
         https://pypi.org/user/edchelstephens/
         https://github.com/edchelstephens
         https://www.linkedin.com/in/edchelstephens/
-Platform: Linux, Ubuntu
+Platform: OS Independent
 Classifier: Environment :: Web Environment
 Classifier: Framework :: Django
 Classifier: Framework :: Django :: 3.1
