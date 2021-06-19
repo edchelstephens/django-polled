@@ -7,7 +7,7 @@ django_polled.egg-info/PKG-INFO
 django_polled.egg-info/SOURCES.txt
 django_polled.egg-info/dependency_links.txt
 django_polled.egg-info/top_level.txt
-docs/REFERENCE.srt
+docs/REFERENCE.rst
 polls/__init__.py
 polls/admin.py
 polls/apps.py
