@@ -1,4 +1,0 @@
-The polls app was inspired and craeted after the Django 3.1 Writing your first Django app Tutorial.
-
-Link:
-https://docs.djangoproject.com/en/3.1/intro/tutorial01/
