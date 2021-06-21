@@ -34,6 +34,9 @@
 Github: 
 https://github.com/edchelstephens/django-polled  
 
+Package Index:
+https://test.pypi.org/project/django-polled-edchelstephens/
+
 Written with <3 by:  
 Edchel Stephen B. Nini  
 edchelstephens@gmail.com  
