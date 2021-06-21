@@ -31,9 +31,12 @@
 5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
 
 -----------
-Written with <3 by:
-Edchel Stephen B. Nini
-edchelstephens@gmail.com
-https://pypi.org/user/edchelstephens/
-https://github.com/edchelstephens
-https://www.linkedin.com/in/edchelstephens/
+Github: 
+https://github.com/edchelstephens/django-polled  
+
+Written with <3 by:  
+Edchel Stephen B. Nini  
+edchelstephens@gmail.com  
+https://pypi.org/user/edchelstephens/  
+https://github.com/edchelstephens  
+https://www.linkedin.com/in/edchelstephens/  

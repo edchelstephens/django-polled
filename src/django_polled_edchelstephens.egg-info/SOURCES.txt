@@ -21,6 +21,13 @@ src/polls/models/__init__.py
 src/polls/models/abstract.py
 src/polls/models/choice.py
 src/polls/models/question.py
+src/polls/static/polls/css/styles.css
+src/polls/static/polls/images/background.jpg
+src/polls/static/polls/images/favicon.ico
+src/polls/static/polls/images/question_mark.jpg
+src/polls/templates/polls/detail.html
+src/polls/templates/polls/index.html
+src/polls/templates/polls/results.html
 src/polls/tests/__init__.py
 src/polls/tests/models/__init__.py
 src/polls/tests/models/test_abstract.py
